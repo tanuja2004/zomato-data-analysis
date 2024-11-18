@@ -23,3 +23,27 @@ This project involves analyzing Zomato restaurant data to extract valuable insig
 4. Approximate cost distribution.
 
 ## 📂 Project Structure
+.
+├── Zomato_Data_Analysis.ipynb   # Jupyter notebook containing all the analysis
+├── data/
+│   └── zomato_data.csv          # Dataset used for the analysis
+├── visualizations/
+│   ├── restaurant_types_count.png
+│   ├── online_vs_offline_orders.png
+│   ├── ratings_distribution.png
+│   ├── cost_distribution.png
+│   ├── online_vs_offline_ratings.png
+│   └── heatmap_order_types.png
+├── requirements.txt             # Python dependencies
+└── README.md                    # Project documentation
+
+ 
+
+🌟 Features
+Data cleaning: Ensures high-quality data for analysis.
+Visualizations: Highlights trends and preferences in the dataset.
+Insights: Provides actionable conclusions for restaurant owners and marketers.
+📧 Contact
+For any queries or suggestions, feel free to reach out:
+Tanuja Bhosale
+📧 tanujabhosale1004@gmail.com
